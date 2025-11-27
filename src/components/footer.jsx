@@ -14,7 +14,7 @@ export default function Footer() {
                 color: 'var(--fallout-shadow)'
             }}
         >
-            {'> STATUS: ONLINE | VERSION 4.1 | DATA MOCKING ACTIVE <'}
+            {'> STATUS: ONLINE | VERSION 1.0 | DATA MOCKING ACTIVE <'}
         </div>
 
     </>
